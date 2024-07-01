@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "priest", "priest.pyproj", "{938950CE-2060-4E96-ACBA-CEDA82B4DB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938950CE-2060-4E96-ACBA-CEDA82B4DB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938950CE-2060-4E96-ACBA-CEDA82B4DB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C744C0-18AC-40D6-BFA6-B17DBE4CFD7A}
+	EndGlobalSection
+EndGlobal
